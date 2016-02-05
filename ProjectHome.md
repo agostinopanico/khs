@@ -1,0 +1,2 @@
+This project tends to design and implement a set of system diagnosis utilities, such as filesystem monitoring, process/thread/module controlling, memory accessing, rootkit subverting, etc.
+The project mainly aims at Windows NT or higher platforms. However, some features are designed to be platform-independent.
